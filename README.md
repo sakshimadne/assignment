@@ -1,46 +1,63 @@
-Mangalam HDPE Pipes Website
+# Mangalam HDPE Pipes Website
 
-A fully responsive industrial product website built for Mangalam HDPE Pipes, developed using pure Vanilla JavaScript, HTML5, and CSS3 without any frameworks or libraries.
+A fully responsive industrial website developed for **Mangalam HDPE Pipes** using **HTML5**, **CSS3**, and **Vanilla JavaScript**.
 
-The website is designed and implemented based on the provided Figma designs, ensuring pixel-perfect UI, responsive layouts, and clean frontend architecture.
+This project was built by converting the provided **Figma design** into a pixel-perfect responsive frontend website while maintaining proper spacing, typography, layouts, and responsiveness across all screen sizes.
 
-Tech Stack
-HTML5
-CSS3
-Vanilla JavaScript (Pure JS)
-Responsive Design
-Figma to Code Conversion
-Features
-Fully responsive design for:
-Desktop
-Laptop
-Tablet
-Mobile devices
-Pixel-perfect implementation from Figma
-Modern industrial UI design
-Reusable component-based structure
-Responsive navigation menu
-Product showcase sections
-Manufacturing process section
-CTA (Call To Action) sections
-Portfolio / Product cards
-Trusted brands section
-Mobile optimized layouts
-Clean and maintainable CSS structure
-Responsive Design
+---
 
-The website is carefully optimized for multiple screen sizes:
+## 🌐 Live Demo
 
-Device	Supported
-Large Desktop	✅
-Laptop	✅
-Tablet	✅
-Mobile	✅
-Small Mobile Devices	✅
-Project Structure
+🔗 https://mangalampipeline.netlify.app/
+
+---
+
+# 🚀 Tech Stack
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* Responsive Web Design
+* Figma to HTML/CSS Conversion
+
+---
+
+# 📱 Responsive Design
+
+The website is fully optimized for:
+
+* Desktop Screens
+* Laptop Screens
+* Tablets
+* Mobile Devices
+* Small Mobile Screens
+
+---
+
+# ✨ Features
+
+* Fully responsive layout
+* Pixel-perfect UI implementation
+* Modern industrial website design
+* Responsive navigation bar
+* Product showcase section
+* Manufacturing process section
+* Portfolio/Product cards
+* CTA (Call To Action) sections
+* Trusted brands section
+* Mobile-friendly layouts
+* Clean and maintainable code structure
+* Smooth UI spacing and alignment
+
+---
+
+# 📂 Project Structure
+
+```bash
 project/
 │
 ├── index.html
+│
 ├── css/
 │   └── style.css
 │
@@ -53,38 +70,88 @@ project/
 │   └── logos/
 │
 └── README.md
-Design Implementation
+```
 
-This project was developed by converting the provided Figma UI design into a fully functional frontend website while maintaining:
+---
 
-Exact spacing
-Typography
-Colors
-Borders
-Shadows
-Responsive behavior
-Component alignment
-Layout consistency
-Highlights
-No frontend frameworks used
-No CSS libraries used
-Pure handcrafted responsive CSS
-Organized and scalable styling
-Clean semantic HTML structure
-Lightweight and fast loading
-How to Run
-Clone or download the repository
-git clone (https://github.com/sakshimadne/assignment.git)
-Open the project folder
-Run index.html in browser
+# 🎨 Design Implementation
 
-OR use VS Code Live Server extension.
+This project was developed based on a Figma design and carefully implemented to match:
 
-Browser Support
-Google Chrome
-Microsoft Edge
-Mozilla Firefox
-Safari
-Author
+* Typography
+* Colors
+* Borders
+* Radius
+* Shadows
+* Component spacing
+* Responsive layouts
+* Section alignment
+* UI consistency
 
-Developed using Vanilla JavaScript, HTML, and CSS based on Figma design specifications.
+---
+
+# ⚡ Highlights
+
+* Pure Vanilla JavaScript project
+* No frontend frameworks used
+* No external CSS libraries used
+* Lightweight and fast loading
+* Structured and reusable CSS
+* Clean semantic HTML
+* Responsive for all devices
+
+---
+
+# 🛠️ How to Run Locally
+
+### 1. Clone Repository
+
+```bash
+git clone <repository-url>
+```
+
+### 2. Open Project Folder
+
+```bash
+cd project-folder
+```
+
+### 3. Run Project
+
+Open `index.html` in browser
+
+OR
+
+Use **VS Code Live Server Extension**
+
+---
+
+# 🌍 Browser Support
+
+* Google Chrome
+* Mozilla Firefox
+* Microsoft Edge
+* Safari
+
+---
+
+# 👨‍💻 Development
+
+This project was handcrafted using:
+
+* HTML
+* CSS
+* Vanilla JavaScript
+
+without using frameworks like React, Bootstrap, Tailwind, or jQuery.
+
+---
+
+# 📌 Notes
+
+* Built according to Figma specifications
+* Focused on responsive UI/UX
+* Optimized for different screen sizes
+* Clean frontend architecture
+
+---
